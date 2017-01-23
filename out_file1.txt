@@ -1,0 +1,8 @@
+getSize 0
+getFighter Josh NULL
+addFighter Josh A 2 3 4 5 Invalid
+getSize 0
+getFighter Josh NULL
+removeFighter Josh False
+getFighter Josh NULL
+getSize 0

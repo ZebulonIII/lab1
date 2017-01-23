@@ -1,0 +1,29 @@
+getSize 0
+addFighter Josh A 100 3 4 5 Invalid
+addFighter Kel C 100 3 4 5 Invalid
+addFighter Nebula R 100 3 4 5 Invalid
+addFighter Spryte C 100 3 4 5 Invalid
+addFighter Vale R 100 3 4 5 Invalid
+addFighter Spen00 A 100 3 4 5 Invalid
+getSize 0
+battle Josh Kel Fighter not found
+battle Nebula Spryte Fighter not found
+battle Vale Spen00 Fighter not found
+getFighter Josh NULL
+getFighter Kel NULL
+getFighter Nebula NULL
+getFighter Spryte NULL
+getFighter Vale NULL
+getFighter Spen00 NULL
+reset Josh NULL
+reset Kel NULL
+reset Nebula NULL
+reset Spryte NULL
+reset Vale NULL
+reset Spen00 NULL
+getFighter Josh NULL
+getFighter Kel NULL
+getFighter Nebula NULL
+getFighter Spryte NULL
+getFighter Vale NULL
+getFighter Spen00 NULL

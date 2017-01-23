@@ -1,0 +1,62 @@
+getSize 0
+addFighter Fumblemore C 100 10 10 100 Invalid
+addFighter Creeper R 10 100 1 1 Invalid
+addFighter Cow R 10 2 1 3 Invalid
+addFighter Sheep A 5 1 1 1 Invalid
+addFighter Tinman R 100 5 1 7 Invalid
+addFighter Spacker R 50 1 1 1 Invalid
+addFighter Joshua R 1000 10 80 10 Invalid
+addFighter NORAD R 750 30 40 1 Invalid
+addFighter Honeydew R 150 14 8 11 Invalid
+addFighter HoneydewClone R 150 14 8 11 Invalid
+addFighter Israphel A 90 12 16 1 Invalid
+addFighter IsraphelClone A 90 12 16 1 Invalid
+addFighter Father_Braeburn C 90 4 12 20 Invalid
+addFighter Father_BraeburnClone C 90 4 12 20 Invalid
+battle Fumblemore Creeper Fighter not found
+reset Fumblemore NULL
+reset Creeper NULL
+battle Creeper Sheep Fighter not found
+reset Creeper NULL
+reset Sheep NULL
+battle Cow Sheep Fighter not found
+reset Cow NULL
+reset Sheep NULL
+battle Tinman Spacker Fighter not found
+reset Tinman NULL
+reset Spacker NULL
+battle Joshua NORAD Fighter not found
+reset Joshua NULL
+reset NORAD NULL
+battle Honeydew HoneydewClone Fighter not found
+reset Honeydew NULL
+reset HoneydewClone NULL
+battle Israphel IsraphelClone Fighter not found
+reset Israphel NULL
+reset IsrahelClone NULL
+battle Father_Braeburn Father_BraeburnClone Fighter not found
+reset Father_Braeburn NULL
+reset Father_BraeburnClone NULL
+battle Honeydew Israphel Fighter not found
+reset Honeydew NULL
+reset Israphel NULL
+battle Israphel Father_Braeburn Fighter not found
+reset Israphel NULL
+reset Father_Braeburn NULL
+battle Honeydew Father_Braeburn Fighter not found
+reset Honeydew NULL
+reset Father_Braeburn NULL
+removeFighter Fumblemore False
+removeFighter Creeper False
+removeFighter Cow False
+removeFighter Sheep False
+removeFighter Tinman False
+removeFighter Spacker False
+removeFighter Joshua False
+removeFighter NORAD False
+removeFighter Honeydew False
+removeFighter HoneydewClone False
+removeFighter Israphel False
+removeFighter IsraphelClone False
+removeFighter Father_Braeburn False
+removeFighter Father_BraeburnClone False
